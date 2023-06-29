@@ -29,3 +29,4 @@ elevation_mapping里的traversibility是用在navigation里的
 
 # 5-22
 是因为之前在PlaneDecompositionPipeline.cpp中加了normal
+

@@ -1,7 +1,7 @@
-# elevation_topic: '/elevation_mapping/elevation_map_raw' 
-# height_layer: 'elevation'
-elevation_topic: '/elevation_mapping/elevation_map_filter'
-height_layer: 'smooth'
+elevation_topic: '/elevation_mapping/elevation_map_raw' 
+height_layer: 'elevation'
+# elevation_topic: '/elevation_mapping/elevation_map_filter'
+# height_layer: 'smooth'
 target_frame_id: 'odom'
 submap:
   width: 5.0
